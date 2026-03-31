@@ -65,10 +65,7 @@ The variant onboarding significantly improves both conversion and revenue metric
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard1.png)
-
-
-
+![Dashboard](screenshots/dashboard.png)
 ---
 
 ## 🚀 Key Learnings
